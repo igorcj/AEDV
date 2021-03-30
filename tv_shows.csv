@@ -61,13 +61,13 @@
 59,The Twilight Zone,1959,7+,9,82%,1,1,0,0,1
 60,YOU,2018,18+,7.8,91%,1,0,0,0,1
 61,Sex Education,2019,16+,8.3,94%,1,0,0,0,1
-62,"Tiger King: Murder, Mayhem and Madness",2020,18+,7.8,86%,1,0,0,0,1
+"62,""Tiger King: Murder, Mayhem and Madness"",2020,18+,7.8,86%,1,0,0,0,1"
 63,Star Trek: The Next Generation,1987,7+,8.6,89%,1,1,1,0,1
 64,Broadchurch,2013,18+,8.4,92%,1,0,0,0,1
 65,Kingdom,2019,18+,8.4,96%,1,0,0,0,1
 66,Altered Carbon,2018,18+,8.1,64%,1,0,0,0,1
 67,The Sinner,2017,16+,8,95%,1,0,0,0,1
-68,"Love, Death & Robots",2019,18+,8.5,78%,1,0,0,0,1
+"68,""Love, Death & Robots"",2019,18+,8.5,78%,1,0,0,0,1"
 69,Marvel's Jessica Jones,2015,18+,8,83%,1,0,0,0,1
 70,New Girl,2011,16+,7.7,94%,1,0,0,0,1
 71,The Good Wife,2009,16+,8.3,94%,1,1,1,0,1
@@ -421,7 +421,7 @@
 419,Workin' Moms,2017,18+,7.5,,1,0,0,0,1
 420,Z Nation,2014,18+,6.7,,1,0,0,0,1
 421,Losers,2019,,7.7,100%,1,0,0,0,1
-422,"Roswell, New Mexico",2019,16+,6.1,55%,1,0,0,0,1
+"422,""Roswell, New Mexico"",2019,16+,6.1,55%,1,0,0,0,1"
 423,Comedians in Cars Getting Coffee,2012,16+,8.1,,1,0,0,0,1
 424,Conan,2010,16+,8.1,,1,0,0,0,1
 425,The Guild,2007,,8.2,,1,0,0,0,1
@@ -451,7 +451,7 @@
 449,The Gift,2019,,7.6,,1,0,0,0,1
 450,The Time in Between,2013,7+,8.4,,1,0,0,0,1
 451,Cleverman,2016,16+,6.4,86%,1,0,0,0,1
-452,"Pablo Escobar, The Drug Lord",2012,18+,8.5,,1,0,0,0,1
+"452,""Pablo Escobar, The Drug Lord"",2012,18+,8.5,,1,0,0,0,1"
 453,The Pharmacist,2020,,7.8,,1,0,0,0,1
 454,Wet Hot American Summer: First Day of Camp,2015,16+,7.4,,1,0,0,0,1
 455,Vampire Knight,2008,16+,7.5,,1,1,0,0,1
@@ -526,7 +526,7 @@
 524,Vagabond,2019,,8.3,,1,0,0,0,1
 525,Maid Sama!,2010,16+,8,,1,1,0,0,1
 526,Robotech,1985,7+,8.5,,1,0,1,0,1
-527,"The Mind, Explained",2019,16+,8.1,,1,0,0,0,1
+"527,""The Mind, Explained"",2019,16+,8.1,,1,0,0,0,1"
 528,Boys Over Flowers,2009,16+,8,,1,1,0,0,1
 529,V Wars,2019,18+,6.1,,1,0,0,0,1
 530,Occupied,2015,16+,7.7,,1,0,0,0,1
@@ -567,7 +567,7 @@
 565,Girlboss,2017,18+,7,36%,1,0,0,0,1
 566,The Trial,2019,,7,75%,1,0,0,0,1
 567,Call My Agent,2015,7+,8.3,,1,0,0,0,1
-568,"What's New, Scooby-Doo?",2002,7+,7.2,,1,0,0,0,1
+"568,""What's New, Scooby-Doo?"",2002,7+,7.2,,1,0,0,0,1"
 569,Teasing Master Takagi-san,2018,7+,7.5,,1,0,0,0,1
 570,Yu-Gi-Oh!,1998,,7.9,,1,1,1,0,1
 571,Blue Exorcist,2011,16+,7.5,,1,1,0,0,1
@@ -609,11 +609,11 @@
 607,Tidelands,2018,18+,7,,1,0,0,0,1
 608,Nobel,2016,18+,8.1,,1,0,0,0,1
 609,Well-Intended Love,2019,,7.5,,1,0,0,0,1
-610,"Drugs, Inc.",2010,16+,7.8,,1,1,0,0,1
+"610,""Drugs, Inc."",2010,16+,7.8,,1,1,0,0,1"
 611,Midnight Diner: Tokyo Stories,2016,16+,8.4,,1,0,0,0,1
 612,Zindagi Gulzar Hai,2012,,9,,1,0,0,0,1
 613,People Just Do Nothing,2014,18+,8.5,,1,0,0,0,1
-614,"Love, Chunibyo & Other Delusions",2012,16+,7.4,,1,1,0,0,1
+"614,""Love, Chunibyo & Other Delusions"",2012,16+,7.4,,1,1,0,0,1"
 615,Man Like Mobeen,2017,,7.9,,1,0,0,0,1
 616,Turn Up Charlie,2019,,7.1,42%,1,0,0,0,1
 617,Tidying Up with Marie Kondo,2019,7+,6.6,79%,1,0,0,0,1
@@ -670,7 +670,7 @@
 668,White Lines,2020,18+,6.2,58%,1,0,0,0,1
 669,Dolly Parton's Heartstrings,2019,,7.6,63%,1,0,0,0,1
 670,Intelligence,2006,,8.2,,1,0,1,0,1
-671,"Coronavirus, Explained",2020,,7.8,,1,0,0,0,1
+"671,""Coronavirus, Explained"",2020,,7.8,,1,0,0,0,1"
 672,The Velvet Collection,2017,16+,7.2,,1,0,0,0,1
 673,Offspring,2010,16+,8.2,,1,1,0,0,1
 674,Terrace House: Tokyo 2019-2020,2019,,7.8,,1,0,0,0,1
@@ -732,7 +732,7 @@
 730,Luna Nera,2020,18+,5.5,,1,0,0,0,1
 731,Nobody's Looking,2019,18+,7.9,,1,0,0,0,1
 732,Highway Thru Hell,2012,7+,8.1,,1,0,0,0,1
-733,"The Long, Long Holiday",2015,7+,8.9,,1,0,0,0,1
+"733,""The Long, Long Holiday"",2015,7+,8.9,,1,0,0,0,1"
 734,Ben 10,2016,7+,2.5,,1,0,0,0,1
 735,Man to Man,2017,,7.4,90%,1,0,0,0,1
 736,Sym-Bionic Titan,2010,7+,8.1,,1,0,0,0,1
@@ -831,7 +831,7 @@
 829,Street Food,2019,all,8.2,,1,0,0,0,1
 830,Paquita Salas,2016,,8,,1,0,0,0,1
 831,All Hail King Julien,2014,7+,7.2,,1,0,0,0,1
-832,"Acero, Woman of Steel",2014,16+,7.2,,1,1,0,0,1
+"832,""Acero, Woman of Steel"",2014,16+,7.2,,1,1,0,0,1"
 833,Untold Stories of the ER,2004,16+,7.5,,1,0,0,0,1
 834,Valor,2017,16+,5.9,22%,1,0,0,0,1
 835,Iris,2009,,7.9,,1,0,0,0,1
@@ -916,7 +916,7 @@
 914,Terrace House: Opening New Doors,2017,,7.8,,1,0,0,0,1
 915,Super Wings!,2015,all,6.2,,1,0,1,0,1
 916,Incomplete Life,2014,16+,8.6,,1,0,0,0,1
-917,"Breakfast, Lunch & Dinner",2019,18+,6.7,80%,1,0,0,0,1
+"917,""Breakfast, Lunch & Dinner"",2019,18+,6.7,80%,1,0,0,0,1"
 918,Ice Fantasy,2016,16+,7.1,,1,0,0,0,1
 919,The Supervet,2014,7+,8.7,,1,0,0,0,1
 920,The Seventies,2015,7+,8.3,,1,0,0,0,1
@@ -1013,7 +1013,7 @@
 1011,Loaded,2017,,6.5,60%,1,0,0,0,1
 1012,Brotherhood,2019,16+,7.6,,1,0,0,0,1
 1013,The Sound of Your Heart,2016,,8.3,,1,0,0,0,1
-1014,"Worst Year of My Life, Again!",2014,,7.6,,1,0,0,0,1
+"1014,""Worst Year of My Life, Again!"",2014,,7.6,,1,0,0,0,1"
 1015,The Kirlian Frequency,2019,7+,7.6,,1,0,0,0,1
 1016,Silvana Sin Lana,2016,16+,7.5,,1,0,0,0,1
 1017,Designated Survivor: 60 Days,2019,,8,,1,0,0,0,1
@@ -1030,7 +1030,7 @@
 1028,Genius of the Modern World,2016,all,7.6,,1,0,0,0,1
 1029,Huge in France,2019,16+,6.8,50%,1,0,0,0,1
 1030,Children of the Whales,2017,16+,7.1,,1,0,0,0,1
-1031,"That Winter, The Wind Blows",2013,,7.8,,1,0,0,0,1
+"1031,""That Winter, The Wind Blows"",2013,,7.8,,1,0,0,0,1"
 1032,Stephen Fry in America,2008,7+,7.9,,1,0,0,0,1
 1033,Dharmakshetra,2014,,7.8,,1,0,1,0,1
 1034,The Unlisted,2019,,6.3,,1,0,0,0,1
@@ -1052,7 +1052,7 @@
 1050,Fate/Apocrypha,2017,18+,6.5,,1,0,0,0,1
 1051,Total Drama Presents: The Ridonculous Race,2015,7+,6.6,,1,0,0,0,1
 1052,Doomsday Preppers,2011,7+,6.1,,1,0,0,0,1
-1053,"Can't Cope, Won't Cope",2016,,7.3,,1,0,0,0,1
+"1053,""Can't Cope, Won't Cope"",2016,,7.3,,1,0,0,0,1"
 1054,Lunatics,2019,18+,6.6,,1,0,0,0,1
 1055,The Big Flower Fight,2020,,7.7,43%,1,0,0,0,1
 1056,Criminal: Spain,2019,7+,6.9,,1,0,0,0,1
@@ -1131,7 +1131,7 @@
 1129,Trailer Park Boys: Out of the Park: Europe,2016,18+,6.6,,1,0,0,0,1
 1130,Bel Ami,2013,,6.3,,1,0,0,0,1
 1131,Fastest Car,2018,,7.1,,1,0,0,0,1
-1132,"Nisman: El fiscal, la presidenta y el espía",2020,,7.7,,1,0,0,0,1
+"1132,""Nisman: El fiscal, la presidenta y el espía"",2020,,7.7,,1,0,0,0,1"
 1133,1994,2019,18+,8,,1,0,0,0,1
 1134,Shadow,2019,7+,6.5,,1,0,0,0,1
 1135,Jailbirds,2019,18+,7.2,,1,0,0,0,1
@@ -1451,7 +1451,7 @@
 1449,Larry Charles' Dangerous World of Comedy,2019,18+,7.3,,1,0,0,0,1
 1450,Boca Juniors Confidential,2018,all,6.5,,1,0,0,0,1
 1451,Under Arrest,2016,16+,7.3,,1,0,0,0,1
-1452,"Three Wives, One Husband",2018,,6.5,,1,0,0,0,1
+"1452,""Three Wives, One Husband"",2018,,6.5,,1,0,0,0,1"
 1453,ReBoot: The Guardian Code,2018,7+,3.7,,1,0,0,0,1
 1454,Bangkok รัก Stories 2 ตอน ไม่เดียงสา,2018,,6.9,,1,0,0,0,1
 1455,The Road Trick,2017,,6.8,,1,0,0,0,1
@@ -1484,7 +1484,7 @@
 1482,Flinch,2019,7+,4,,1,0,0,0,1
 1483,Afghanistan: The Great Game,2012,,7.6,,1,0,0,0,1
 1484,Dinotrux: Supercharged,2017,7+,7.1,,1,0,0,0,1
-1485,"Noddy, Toyland Detective",2016,all,7,,1,0,0,0,1
+"1485,""Noddy, Toyland Detective"",2016,all,7,,1,0,0,0,1"
 1486,Inspector Gadget,2015,all,4.4,,1,0,0,0,1
 1487,Singapore Social,2019,,6.6,,1,0,0,0,1
 1488,Camelia La Texana,2014,,7.6,,1,0,0,0,1
@@ -1521,7 +1521,7 @@
 1519,The Paper,2008,,6.5,,1,0,0,0,1
 1520,Home: Adventures with Tip & Oh,2016,7+,5.8,,1,0,0,0,1
 1521,The Motorbike Show,2011,,8.4,,1,0,0,0,1
-1522,"Love, Now",2007,,6.1,,1,0,0,0,1
+"1522,""Love, Now"",2007,,6.1,,1,0,0,0,1"
 1523,My Husband Won't Fit,2019,,6.7,,1,0,0,0,1
 1524,Rimba Racer,2015,,8.1,,1,0,0,0,1
 1525,Court Justice: Sydney,2017,,7,,1,0,0,0,1
@@ -1601,7 +1601,7 @@
 1599,StoryBots Super Songs,2016,,8.4,,1,0,0,0,1
 1600,Alien Deep with Bob Ballard,2012,,6.7,,1,0,0,0,1
 1601,Love At Seventeen,2016,,6.4,,1,0,0,0,1
-1602,"Food, Booze & Tattoos",2015,,7,,1,0,0,0,1
+"1602,""Food, Booze & Tattoos"",2015,,7,,1,0,0,0,1"
 1603,Nailed It! Mexico,2019,,6.3,,1,0,0,0,1
 1604,Pororo the Little Penguin,2003,all,5.8,,1,1,1,0,1
 1605,Winsanity,2016,,6.1,,1,0,0,0,1
@@ -1727,7 +1727,7 @@
 1725,Robot Trains,2017,all,5.4,,1,0,1,0,1
 1726,Tornado Hunters,2014,,5.6,,1,0,0,0,1
 1727,Kahi Suni,2015,7+,6.7,,1,0,0,0,1
-1728,"Lady, La Vendedora de Rosas",2016,,,,1,0,0,0,1
+"1728,""Lady, La Vendedora de Rosas"",2016,,,,1,0,0,0,1"
 1729,Empty,2008,,6.7,,1,0,0,0,1
 1730,Wanda and the Alien,2014,all,6.5,,1,0,0,0,1
 1731,Bromance,2008,,2.6,,1,0,0,0,1
@@ -1748,7 +1748,7 @@
 1746,Wild Ones,2014,,7,,1,0,0,0,1
 1747,License To Drill Louisiana,2014,16+,6.5,,1,0,0,0,1
 1748,Ex-Boyfriend,2011,,7.1,,1,0,0,0,1
-1749,"Everyday Miracles: The Genius of Sofas, Stockings and Scanners",2014,all,7.5,,1,0,0,0,1
+"1749,""Everyday Miracles: The Genius of Sofas, Stockings and Scanners"",2014,all,7.5,,1,0,0,0,1"
 1750,Great Wild North,2015,7+,5.4,,1,0,0,0,1
 1751,Way Back into Love,2011,,7,,1,0,0,0,1
 1752,Love Cuisine,2015,,8.1,,1,0,0,0,1
@@ -1812,7 +1812,7 @@
 1810,Jumping Girl,2015,,5.2,,1,0,0,0,1
 1811,Bangkok Love Stories: Hey You!,2018,,7,,1,0,0,0,1
 1812,Monster Math Squad,2012,,5,,1,0,0,0,1
-1813,"Gunpowder, Treason and Plot",2001,,7.1,,1,0,0,0,1
+"1813,""Gunpowder, Treason and Plot"",2001,,7.1,,1,0,0,0,1"
 1814,The Outstanding Woman,2014,,5.3,,1,0,0,0,1
 1815,Dragons: Race to the Edge,2016,,,,1,0,0,0,1
 1816,Grami's Circus Show,2014,all,5.1,,1,0,0,0,1
@@ -1870,10 +1870,10 @@
 1868,XH Derbez,2012,,,,1,0,0,0,1
 1869,Hardliners,2010,,,,1,0,0,0,1
 1870,El Cartel,2008,,,,1,0,0,0,1
-1871,"Find It, Fix It, Flog It",2016,,,,1,0,0,0,1
+"1871,""Find It, Fix It, Flog It"",2016,,,,1,0,0,0,1"
 1872,For the Win,2017,,3,,1,0,0,0,1
 1873,Paul Hollywood's Big Continental Road Trip,2017,,,,1,0,0,0,1
-1874,"Nightmare Tenants, Slum Landlords",2015,,,,1,0,0,0,1
+"1874,""Nightmare Tenants, Slum Landlords"",2015,,,,1,0,0,0,1"
 1875,Cleo & Cuquin,2018,,,,1,0,0,0,1
 1876,Miniforce,2016,,,,1,0,1,0,1
 1877,An Innocent Mistake,2012,,,,1,0,0,0,1
@@ -1914,7 +1914,7 @@
 1912,The Underwear,2017,,,,1,0,0,0,1
 1913,To Build Or Not To Build,2000,,,,1,0,0,0,1
 1914,Murder Files,2012,,,,1,0,0,0,1
-1915,"Deals, Wheels and Steals",2015,,,,1,0,0,0,1
+"1915,""Deals, Wheels and Steals"",2015,,,,1,0,0,0,1"
 1916,Sons of the Caliphate,2016,,,,1,0,0,0,1
 1917,Under the Black Moonlight,2016,,,,1,0,0,0,1
 1918,Lovely Love Lie (The Liar and His Lover),2017,,,,1,0,0,0,1
@@ -1980,7 +1980,7 @@
 1978,Frasier,1993,7+,8,93%,0,1,0,0,1
 1979,Line of Duty,2012,18+,8.6,97%,0,1,0,0,1
 1980,Bones,2005,16+,7.8,90%,0,1,1,0,1
-1981,Steins;Gate,2011,16+,8.8,100%,0,1,0,0,1
+1981,Steins Gate,2011,16+,8.8,100%,0,1,0,0,1
 1982,The Killing,2011,18+,8.2,69%,0,1,0,0,1
 1983,The Good Doctor,2017,16+,8.2,,0,1,0,0,1
 1984,Preacher,2016,18+,8,87%,0,1,0,0,1
@@ -2242,7 +2242,7 @@
 2240,Kamisama Kiss,2012,7+,8.1,,0,1,0,0,1
 2241,Rascal Does Not Dream of Bunny Girl Senpai,2018,16+,8,,0,1,0,0,1
 2242,The Legend of the Blue Sea,2016,,8.1,,0,1,0,0,1
-2243,"Sabrina, the Teenage Witch",1996,all,6.6,,0,1,0,0,1
+"2243,""Sabrina, the Teenage Witch"",1996,all,6.6,,0,1,0,0,1"
 2244,The Split,2018,,7.6,73%,0,1,0,0,1
 2245,Airwolf,1984,7+,6.7,,0,1,0,0,1
 2246,Bleak House,2005,16+,8.3,,0,1,0,0,1
@@ -2316,7 +2316,7 @@
 2314,Lincoln Rhyme: Hunt for the Bone Collector,2020,16+,6.9,30%,0,1,0,0,1
 2315,Saving Grace,2007,18+,7.6,73%,0,1,0,0,1
 2316,90 Day Fiancé,2014,16+,6.3,,0,1,0,0,1
-2317,"Beverly Hills, 90210",1990,7+,6.3,,0,1,0,0,1
+"2317,""Beverly Hills, 90210"",1990,7+,6.3,,0,1,0,0,1"
 2318,Darker than Black,2007,16+,7.7,,0,1,1,0,1
 2319,MasterChef,2010,16+,7.3,,0,1,0,0,1
 2320,This Country,2017,16+,8.5,96%,0,1,0,0,1
@@ -2404,7 +2404,7 @@
 2402,Being Erica,2009,16+,7.5,,0,1,1,0,1
 2403,False Flag,2015,,7.8,,0,1,0,0,1
 2404,Dark Shadows,1966,7+,7.5,,0,1,1,0,1
-2405,"Diners, Drive-Ins and Dives",2007,all,7.3,,0,1,0,0,1
+"2405,""Diners, Drive-Ins and Dives"",2007,all,7.3,,0,1,0,0,1"
 2406,Tyler Perry's The Haves and the Have Nots,2013,,6,,0,1,0,0,1
 2407,Shots Fired,2017,16+,6.4,84%,0,1,0,0,1
 2408,Four Weddings and a Funeral,2019,,7.1,43%,0,1,0,0,1
@@ -2621,7 +2621,7 @@
 2619,WATAMOTE,2013,16+,7.3,,0,1,0,0,1
 2620,My Love Story!!,2015,7+,7.8,,0,1,0,0,1
 2621,Love Island Australia,2018,18+,5.4,,0,1,0,0,1
-2622,"Doogie Howser, M.D.",1989,7+,6.5,,0,1,0,0,1
+"2622,""Doogie Howser, M.D."",1989,7+,6.5,,0,1,0,0,1"
 2623,grown-ish,2018,16+,6.4,,0,1,0,0,1
 2624,Devil May Cry,2007,18+,7.1,,0,1,0,0,1
 2625,The Four: Battle for Stardom,2018,,4.1,17%,0,1,0,0,1
@@ -2699,9 +2699,9 @@
 2697,East Los High,2013,16+,7,,0,1,0,0,1
 2698,Maison Close,2010,18+,6.7,,0,1,0,0,1
 2699,Total Bellas,2016,16+,5.8,,0,1,0,0,1
-2700,"Say ""I love you.""",2012,16+,7.4,,0,1,0,0,1
+"2700,""Say """"I love you."""""",2012,16+,7.4,,0,1,0,0,1"
 2701,Dr. Pimple Popper,2018,16+,6.6,,0,1,0,0,1
-2702,"Good Morning, Miss Bliss",1988,all,6.8,,0,1,0,0,1
+"2702,""Good Morning, Miss Bliss"",1988,all,6.8,,0,1,0,0,1"
 2703,Bachelor in Paradise,2014,16+,5.2,,0,1,0,0,1
 2704,Three Sheets,2006,18+,8.2,,0,1,0,0,1
 2705,Paradox,2009,16+,7.1,,0,1,1,0,1
@@ -2731,7 +2731,7 @@
 2729,Black Bullet,2014,18+,7,,0,1,0,0,1
 2730,Mayo Chiki!,2011,18+,7.1,,0,1,0,0,1
 2731,Himouto! Umaru-chan,2015,16+,7,,0,1,1,0,1
-2732,"BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense.",2020,16+,7.3,,0,1,0,0,1
+"2732,""BOFURI: I Don’t Want to Get Hurt, so I’ll Max Out My Defense."",2020,16+,7.3,,0,1,0,0,1"
 2733,Elena's Ghost,2015,16+,7.6,,0,1,0,0,1
 2734,Heathcliff,1984,7+,6.6,,0,1,0,0,1
 2735,Criminal Minds: Suspect Behavior,2011,16+,6.3,42%,0,1,1,0,1
@@ -2749,7 +2749,7 @@
 2747,Is This a Zombie?,2011,16+,7.1,,0,1,0,0,1
 2748,The Comedians,2015,18+,6.7,58%,0,1,0,0,1
 2749,Celebrity Family Feud,2008,7+,6.1,,0,1,0,0,1
-2750,"I Love You, America",2017,18+,5.7,93%,0,1,0,0,1
+"2750,""I Love You, America"",2017,18+,5.7,93%,0,1,0,0,1"
 2751,Dragnet,1967,7+,7.5,,0,1,0,0,1
 2752,Battleground,2012,,7.9,73%,0,1,0,0,1
 2753,Wolf Girl & Black Prince,2014,16+,7.1,,0,1,0,0,1
@@ -2785,7 +2785,7 @@
 2783,Archangel,2005,,6.5,,0,1,0,0,1
 2784,Blood-C,2011,18+,6.3,,0,1,0,0,1
 2785,Upper Middle Bogan,2013,16+,7.9,,0,1,0,0,1
-2786,"Nicky, Ricky, Dicky & Dawn",2014,all,5.1,,0,1,0,0,1
+"2786,""Nicky, Ricky, Dicky & Dawn"",2014,all,5.1,,0,1,0,0,1"
 2787,The New Woody Woodpecker Show,1999,all,6.5,,0,1,0,0,1
 2788,What Would You Do?,2008,7+,7.2,,0,1,0,0,1
 2789,Getting On,2009,16+,8.1,,0,1,0,0,1
@@ -2894,7 +2894,7 @@
 2892,Nanny and the Professor,1970,,7.1,,0,1,0,0,1
 2893,I Am Jazz,2015,7+,4.1,,0,1,0,0,1
 2894,Below the Surface,2017,,7.2,,0,1,0,0,1
-2895,"Rica, Famosa, Latina",2014,,5.5,,0,1,0,0,1
+"2895,""Rica, Famosa, Latina"",2014,,5.5,,0,1,0,0,1"
 2896,StarTalk with Neil deGrasse Tyson,2015,all,7.8,,0,1,1,0,1
 2897,Total Wipeout,2009,,6,,0,1,1,0,1
 2898,Breaking Amish,2012,,5,,0,1,0,0,1
@@ -2968,7 +2968,7 @@
 2966,The Real Housewives of Potomac,2016,16+,4.3,,0,1,0,0,1
 2967,The Hunt with John Walsh,2014,16+,7.5,,0,1,0,0,1
 2968,House Hunters Renovation,2012,all,6.4,,0,1,0,0,1
-2969,"Neon Joe, Werewolf Hunter",2015,16+,7.2,,0,1,0,0,1
+"2969,""Neon Joe, Werewolf Hunter"",2015,16+,7.2,,0,1,0,0,1"
 2970,Filthy Rich,2016,,7.2,,0,1,0,0,1
 2971,Sanjay and Craig,2013,7+,4.4,,0,1,0,0,1
 2972,I Love New York,2007,16+,4.5,,0,1,0,0,1
@@ -3007,8 +3007,8 @@
 3005,Man Up!,2011,7+,6.6,21%,0,1,0,0,1
 3006,My Dead Ex,2018,,7.1,,0,1,0,0,1
 3007,Juana la virgen,2002,,5.9,,0,1,0,0,1
-3008,"Ready, Steady, Wiggle!",2013,all,8.4,,0,1,0,0,1
-3009,"The $100,000 Pyramid",2016,16+,6.2,,0,1,0,0,1
+"3008,""Ready, Steady, Wiggle!"",2013,all,8.4,,0,1,0,0,1"
+"3009,""The $100,000 Pyramid"",2016,16+,6.2,,0,1,0,0,1"
 3010,Gordon Ramsay's Home Cooking,2013,,8.5,,0,1,0,0,1
 3011,Napoleon Dynamite,2012,7+,6.4,25%,0,1,0,0,1
 3012,Kaleido Star,2003,16+,7.7,,0,1,0,0,1
@@ -3029,7 +3029,7 @@
 3027,Scorned: Love Kills,2012,16+,6.8,,0,1,1,0,1
 3028,Sunnyside,2019,,4.9,38%,0,1,0,0,1
 3029,Bloque de Búsqueda,2016,,7.8,,0,1,0,0,1
-3030,"Pinky, Elmyra & the Brain",1998,,5.8,,0,1,0,0,1
+"3030,""Pinky, Elmyra & the Brain"",1998,,5.8,,0,1,0,0,1"
 3031,Britain's Best Home Cook,2018,,7.8,,0,1,0,0,1
 3032,Aquarion,2005,18+,6.6,,0,1,0,0,1
 3033,Til Death Do Us Part,2019,,6.6,,0,1,0,0,1
@@ -3066,7 +3066,7 @@
 3064,The Menendez Murders: Erik Tells All,2017,,7.5,,0,1,0,0,1
 3065,Chopped Junior,2015,,6.6,,0,1,0,0,1
 3066,Max Steel,2000,7+,6.2,,0,1,0,0,1
-3067,"Demon Lord, Retry!",2019,16+,6.6,,0,1,0,0,1
+"3067,""Demon Lord, Retry!"",2019,16+,6.6,,0,1,0,0,1"
 3068,Tarzan: The Epic Adventures,1996,,6.6,,0,1,0,0,1
 3069,Stacked,2005,7+,6,,0,1,0,0,1
 3070,The Cisco Kid,1950,,7.3,,0,1,0,0,1
@@ -3095,7 +3095,7 @@
 3093,Flavor of Love Girls: Charm School,2007,,5.8,,0,1,0,0,1
 3094,WWE Main Event,2012,7+,6.5,,0,1,0,0,1
 3095,Hello Kitty's Furry Tale Theater,1987,all,6.2,,0,1,0,0,1
-3096,"I Couldn't Become a Hero, So I Reluctantly Decided to Get a Job.",2013,18+,6.4,,0,1,0,0,1
+"3096,""I Couldn't Become a Hero, So I Reluctantly Decided to Get a Job."",2013,18+,6.4,,0,1,0,0,1"
 3097,Dead Boss,2012,,6.6,,0,1,0,0,1
 3098,Sydney Sailboat,2015,,7.9,,0,1,0,0,1
 3099,Veni Vidi Vici,2017,18+,5.9,,0,1,0,0,1
@@ -3105,7 +3105,7 @@
 3103,Survival School,2008,,7,,0,1,0,0,1
 3104,Toddlers & Tiaras,2009,7+,1.8,,0,1,1,0,1
 3105,The Golden State Killer: It's Not Over,2018,16+,6.9,,0,1,0,0,1
-3106,"Golan, The Insatiable",2013,16+,6.8,,0,1,0,0,1
+"3106,""Golan, The Insatiable"",2013,16+,6.8,,0,1,0,0,1"
 3107,Kidô senshi Gandamu: The Origin I - Aoi hitomi no kyasubaru,2015,,7.5,,0,1,0,0,1
 3108,Divorce Court,1999,,4.1,,0,1,0,0,1
 3109,Hitler's Last Stand,2018,16+,,,0,1,0,0,1
@@ -3127,7 +3127,7 @@
 3125,Hang Ups,2018,,6.3,,0,1,0,0,1
 3126,Urara Meirocho,2017,16+,7.3,,0,1,0,0,1
 3127,Mad Mad House,2004,,7.2,,0,1,0,0,1
-3128,"Ruff-Ruff, Tweet and Dave",2015,all,7.6,,0,1,0,0,1
+"3128,""Ruff-Ruff, Tweet and Dave"",2015,all,7.6,,0,1,0,0,1"
 3129,Inside the NFL,1977,7+,6.9,,0,1,0,0,1
 3130,Girls Beyond the Wasteland,2016,,5.2,,0,1,0,0,1
 3131,Biography: The Trump Dynasty,2019,16+,6.9,,0,1,0,0,1
@@ -3163,7 +3163,7 @@
 3161,The Boonies,2016,,7,,0,1,0,0,1
 3162,Charlie Rose,1991,all,7.5,,0,1,0,0,1
 3163,Mickey's 90th Spectacular,2018,7+,7,,0,1,0,0,1
-3164,"Wiggle, Wiggle, Wiggle",2018,all,6.2,,0,1,0,0,1
+"3164,""Wiggle, Wiggle, Wiggle"",2018,all,6.2,,0,1,0,0,1"
 3165,Wives with Knives,2012,16+,6.6,,0,1,0,0,1
 3166,Big Block SingSong,2012,all,,,0,1,0,0,1
 3167,Dreamland,2014,,4.7,,0,1,0,0,1
@@ -3261,7 +3261,7 @@
 3259,Chiquis N'Control,2012,,7.4,,0,1,0,0,1
 3260,CNBC Originals,2003,16+,,,0,1,0,0,1
 3261,LA Story,2014,16+,6.4,,0,1,0,0,1
-3262,"Tengo Talento, Mucho Talento",2012,,,,0,1,0,0,1
+"3262,""Tengo Talento, Mucho Talento"",2012,,,,0,1,0,0,1"
 3263,Last Call with Carson Daly,2002,16+,2.9,,0,1,0,0,1
 3264,Vets Saving Pets,2018,,,,0,1,0,0,1
 3265,The View,1997,16+,2.6,,0,1,0,0,1
@@ -3291,7 +3291,7 @@
 3289,Joe and Jack,2012,all,4.9,,0,1,0,0,1
 3290,America's Cutest,2009,7+,7.2,,0,1,0,0,1
 3291,Noches con Platanito,2013,,5.4,,0,1,0,0,1
-3292,"Underworld, Inc.",2015,7+,2.1,,0,1,0,0,1
+"3292,""Underworld, Inc."",2015,7+,2.1,,0,1,0,0,1"
 3293,Earth Odyssey with Dylan Dreyer,2019,,6.9,,0,1,0,0,1
 3294,UFC Unleashed,2007,,7.8,,0,1,0,0,1
 3295,Rudy Maxas World,2008,all,8,,0,1,1,0,1
@@ -3500,7 +3500,7 @@
 3498,ABC News | Garage Geniuses,2016,,,,0,1,0,0,1
 3499,WildWoods,2017,,,,0,1,0,0,1
 3500,GMA Day,2018,,,,0,1,0,0,1
-3501,"Build Small, Live Anywhere",2015,,,,0,1,0,0,1
+"3501,""Build Small, Live Anywhere"",2015,,,,0,1,0,0,1"
 3502,Things I Do,2015,,,,0,1,0,0,1
 3503,Mujeres Rompiendo el Silencio,2018,,,,0,1,0,0,1
 3504,Wooly,2010,,,,0,1,0,0,1
@@ -3522,7 +3522,7 @@
 3520,Trials of the Wild,2018,,,,0,1,0,0,1
 3521,Health + Happiness with Mayo Clinic,2018,,,,0,1,0,0,1
 3522,Heritage,2015,,,,0,1,0,0,1
-3523,"I Draw, You Cook",2018,,,,0,1,1,0,1
+"3523,""I Draw, You Cook"",2018,,,,0,1,1,0,1"
 3524,Strait Talk with Matt & LZ,2016,,,,0,1,0,0,1
 3525,Rudy Maxa's Travel,2001,,,,0,1,1,0,1
 3526,Especiales de Historia de México,2012,,,,0,1,0,0,1
@@ -3548,7 +3548,7 @@
 3546,WIRED's Autocomplete Interviews,2016,,,,0,1,1,0,1
 3547,Bioterrorism: The Truth,2016,,,,0,1,0,0,1
 3548,Out of Office with Brent Rose,2015,,,,0,1,1,0,1
-3549,"Stop, Breathe & Think Kids: Mindful Games",2017,,,,0,1,0,0,1
+"3549,""Stop, Breathe & Think Kids: Mindful Games"",2017,,,,0,1,0,0,1"
 3550,On Stage,2017,,,,0,1,0,0,1
 3551,The Champion Within,2017,,,,0,1,0,0,1
 3552,Food Fetish,2011,,,,0,1,0,0,1
@@ -3660,7 +3660,7 @@
 3658,House of Lies,2012,18+,7.4,77%,0,0,1,0,1
 3659,Transparent,2014,18+,7.8,90%,0,0,1,0,1
 3660,Endeavour,2012,16+,8.6,86%,0,0,1,0,1
-3661,"Eerie, Indiana",1991,7+,8.2,100%,0,0,1,0,1
+"3661,""Eerie, Indiana"",1991,7+,8.2,100%,0,0,1,0,1"
 3662,Fortitude,2015,18+,7.4,84%,0,0,1,0,1
 3663,BrainDead,2016,16+,8.1,65%,0,0,1,0,1
 3664,A Very English Scandal,2018,16+,7.7,95%,0,0,1,0,1
@@ -3673,7 +3673,7 @@
 3671,Ordeal by Innocence,2018,,7.3,91%,0,0,1,0,1
 3672,Salvation,2017,16+,7,44%,0,0,1,0,1
 3673,The Tunnel,2013,18+,7.8,91%,0,0,1,0,1
-3674,"Magnum, P.I.",1980,7+,7.5,,0,0,1,0,1
+"3674,""Magnum, P.I."",1980,7+,7.5,,0,0,1,0,1"
 3675,Undercover,2011,7+,8.9,,0,0,1,0,1
 3676,Extant,2014,16+,6.6,77%,0,0,1,0,1
 3677,Thirteen,2016,,7.3,94%,0,0,1,0,1
@@ -3692,7 +3692,7 @@
 3690,Trapped,2015,18+,8.1,,0,0,1,0,1
 3691,Tin Star,2017,18+,7.3,57%,0,0,1,0,1
 3692,Too Old to Die Young,2019,18+,7.4,69%,0,0,1,0,1
-3693,"Kill Me, Heal Me",2015,16+,8.3,,0,0,1,0,1
+"3693,""Kill Me, Heal Me"",2015,16+,8.3,,0,0,1,0,1"
 3694,The Carol Burnett Show,1967,all,8.8,,0,0,1,0,1
 3695,Beavis and Butt-head,1993,16+,7.5,,0,0,1,0,1
 3696,How to Make It in America,2010,18+,7.9,66%,0,0,1,0,1
@@ -3770,7 +3770,7 @@
 3768,Underbelly,2008,18+,8.1,,0,0,1,0,1
 3769,Made in Heaven,2019,18+,8.3,,0,0,1,0,1
 3770,The Royals,2015,16+,7.5,,0,0,1,0,1
-3771,"Dr. Quinn, Medicine Woman",1993,7+,6.7,,0,0,1,0,1
+"3771,""Dr. Quinn, Medicine Woman"",1993,7+,6.7,,0,0,1,0,1"
 3772,Hunting Hitler,2015,7+,7.5,,0,0,1,0,1
 3773,The A Word,2016,,7.7,83%,0,0,1,0,1
 3774,Grounded for Life,2001,16+,7.4,,0,0,1,0,1
@@ -3923,7 +3923,7 @@
 3921,Pingu,1986,all,7.4,,0,0,1,0,1
 3922,Globe Trekker,2005,all,8.6,,0,0,1,0,1
 3923,Wotakoi: Love is Hard for Otaku,2018,16+,7.6,,0,0,1,0,1
-3924,"Nu, pogodi!",1969,,8.6,,0,0,1,0,1
+"3924,""Nu, pogodi!"",1969,,8.6,,0,0,1,0,1"
 3925,Karakuri Circus,2018,,7.1,,0,0,1,0,1
 3926,Miami Ink,2005,16+,6.5,,0,0,1,0,1
 3927,Aristocrats,1999,7+,7.3,,0,0,1,0,1
@@ -4005,7 +4005,7 @@
 4003,Yancy Derringer,1958,16+,7.8,,0,0,1,0,1
 4004,Undercover,2016,16+,6.8,75%,0,0,1,0,1
 4005,Hotel Impossible,2012,7+,7.8,,0,0,1,0,1
-4006,"Car 54, Where Are You?",1961,,7.7,,0,0,1,0,1
+"4006,""Car 54, Where Are You?"",1961,,7.7,,0,0,1,0,1"
 4007,The Hunger,1997,18+,6.3,,0,0,1,0,1
 4008,My Mother and Other Strangers,2016,16+,7.4,,0,0,1,0,1
 4009,London Irish,2013,,7.6,,0,0,1,0,1
@@ -4155,7 +4155,7 @@
 4153,Most Haunted,2002,,5,,0,0,1,0,1
 4154,Grimoire of Zero,2017,16+,7,,0,0,1,0,1
 4155,Flipper,1995,,5.4,,0,0,1,0,1
-4156,"Kokkoku, Moment by Moment",2018,18+,7,,0,0,1,0,1
+"4156,""Kokkoku, Moment by Moment"",2018,18+,7,,0,0,1,0,1"
 4157,Canimals,2011,all,7,,0,0,1,0,1
 4158,The Jury,2002,,7.7,,0,0,1,0,1
 4159,18 to Life,2010,,6,20%,0,0,1,0,1
@@ -4207,7 +4207,7 @@
 4205,Fluffy's Food Adventures,2015,7+,6.9,,0,0,1,0,1
 4206,The Brief,2004,,7.3,,0,0,1,0,1
 4207,Rebel,2017,16+,5.2,38%,0,0,1,0,1
-4208,"Philip Marlowe, Private Eye",1983,,7.9,,0,0,1,0,1
+"4208,""Philip Marlowe, Private Eye"",1983,,7.9,,0,0,1,0,1"
 4209,Transformers: Combiner Wars,2016,16+,5.5,,0,0,1,0,1
 4210,The Rebel,1959,,7.7,,0,0,1,0,1
 4211,Walking Through History,2013,,8.1,,0,0,1,0,1
@@ -4218,7 +4218,7 @@
 4216,Metropolis,2015,,7.7,,0,0,1,0,1
 4217,Decoy,1957,,7.9,,0,0,1,0,1
 4218,Date My Dad,2017,all,7.2,,0,0,1,0,1
-4219,"If It's for My Daughter, I'd Even Defeat a Demon Lord",2019,,,,0,0,1,0,1
+"4219,""If It's for My Daughter, I'd Even Defeat a Demon Lord"",2019,,,,0,0,1,0,1"
 4220,The Annoying Orange,2009,7+,,,0,0,1,0,1
 4221,Starhunter ReduX,2018,,5.6,,0,0,1,0,1
 4222,Crime Investigation Australia,2005,18+,7.9,,0,0,1,0,1
@@ -4264,7 +4264,7 @@
 4262,Arthur & George,2015,all,5.5,,0,0,1,0,1
 4263,Bad Guy,2010,16+,7.8,,0,0,1,0,1
 4264,Tokyo Girl,2016,,8.1,,0,0,1,0,1
-4265,"Lancelot Link, Secret Chimp",1970,,7.5,,0,0,1,0,1
+"4265,""Lancelot Link, Secret Chimp"",1970,,7.5,,0,0,1,0,1"
 4266,Postcards from Buster,2004,all,6.1,,0,0,1,0,1
 4267,The White Guard,2012,,6.2,,0,0,1,0,1
 4268,The Pitch,2012,,7,,0,0,1,0,1
@@ -4377,7 +4377,7 @@
 4375,Seven Senses of the Re'Union,2018,,4.6,,0,0,1,0,1
 4376,Marco Polo,2007,,6,,0,0,1,0,1
 4377,Dusty's Trail,1973,,5.6,,0,0,1,0,1
-4378,"Rich Bride, Poor Bride",2006,all,5.9,,0,0,1,0,1
+"4378,""Rich Bride, Poor Bride"",2006,all,5.9,,0,0,1,0,1"
 4379,Gotthard,2016,,6.5,,0,0,1,0,1
 4380,Sweet Dreams,2011,,,,0,0,1,0,1
 4381,Xploration DIY Sci,2016,all,8.8,,0,0,1,0,1
@@ -4389,7 +4389,7 @@
 4387,Jackson's Wharf,1999,,6.3,,0,0,1,0,1
 4388,Judge Faith,2014,7+,7,,0,0,1,0,1
 4389,Dagger Kiss,2016,,5.3,,0,0,1,0,1
-4390,"Amethyst, Princess of Gemworld",2013,,7.3,,0,0,1,0,1
+"4390,""Amethyst, Princess of Gemworld"",2013,,7.3,,0,0,1,0,1"
 4391,Beyond,2005,,7,,0,0,1,0,1
 4392,Eat. Race. Win.,2018,,7.1,,0,0,1,0,1
 4393,If You Give a Mouse a Cookie,2015,7+,6.1,,0,0,1,0,1
@@ -4406,7 +4406,7 @@
 4404,YouTubers React,2012,,5,,0,0,1,0,1
 4405,Blockbusters,1980,,7.2,,0,0,1,0,1
 4406,The Amazing Gayl Pile,2015,,5.1,,0,0,1,0,1
-4407,"Glenn Martin, DDS",2009,16+,4.1,36%,0,0,1,0,1
+"4407,""Glenn Martin, DDS"",2009,16+,4.1,36%,0,0,1,0,1"
 4408,Trail of Tears,1999,all,8.2,,0,0,1,0,1
 4409,Liverpool 1,1998,7+,7,,0,0,1,0,1
 4410,Onihei,2017,,7.4,,0,0,1,0,1
@@ -4423,7 +4423,7 @@
 4421,Knock Knock Ghost,2015,,6.8,,0,0,1,0,1
 4422,Danger & Eggs,2017,all,6.6,44%,0,0,1,0,1
 4423,Life on the Reef,2015,,8,,0,0,1,0,1
-4424,"The Prize - The Epic Quest for Oil, Money and Power",1992,,8.3,,0,0,1,0,1
+"4424,""The Prize - The Epic Quest for Oil, Money and Power"",1992,,8.3,,0,0,1,0,1"
 4425,Great Artists with Tim Marlow,2001,,8.2,,0,0,1,0,1
 4426,Tricky Business,2012,,6.2,,0,0,1,0,1
 4427,Engineering Giants,2012,,8.4,,0,0,1,0,1
@@ -4511,7 +4511,7 @@
 4509,Forensics: You Decide,2009,,7.2,,0,0,1,0,1
 4510,Delayed Gratification Series,2017,,8.7,,0,0,1,0,1
 4511,Cosmic Quantum Ray,2009,all,5.7,,0,0,1,0,1
-4512,"Frauen, die Geschichte machten",2013,,7.3,,0,0,1,0,1
+"4512,""Frauen, die Geschichte machten"",2013,,7.3,,0,0,1,0,1"
 4513,Gangstars,2018,,7.4,,0,0,1,0,1
 4514,Leo the Wildlife Ranger,2015,,7,,0,0,1,0,1
 4515,Rob the Robot,2013,,7.7,,0,0,1,0,1
@@ -4542,7 +4542,7 @@
 4540,Chop Cut Rebuild,2004,,7.9,,0,0,1,0,1
 4541,Drovers' Gold,1997,,7.6,,0,0,1,0,1
 4542,Empires,2000,all,,,0,0,1,0,1
-4543,"The Vietnam War: Before, During, After",2017,,7.1,,0,0,1,0,1
+"4543,""The Vietnam War: Before, During, After"",2017,,7.1,,0,0,1,0,1"
 4544,NOVA Wonders,2018,all,7.4,,0,0,1,0,1
 4545,THURSTON-The Western Web Series,2011,,6,,0,0,1,0,1
 4546,The Remarkable 20th Century,2004,,7.7,,0,0,1,0,1
@@ -4637,7 +4637,7 @@
 4635,Mario Lopez: Saved By the Baby,2010,,5.2,,0,0,1,0,1
 4636,Avoiding Apocalypse,2012,,5.6,,0,0,1,0,1
 4637,Fanny by Gaslight,1981,,6.6,,0,0,1,0,1
-4638,"#MeToo, Now What?",2018,,6.6,,0,0,1,0,1
+"4638,""#MeToo, Now What?"",2018,,6.6,,0,0,1,0,1"
 4639,Death Unexplained,2012,,6.9,,0,0,1,0,1
 4640,One-Eyed Horse: The Series,2009,,3.6,,0,0,1,0,1
 4641,Doctor MacWheelie,2014,,,,0,0,1,0,1
@@ -4754,7 +4754,7 @@
 4752,Wendy,2013,7+,,,0,0,1,0,1
 4753,Flint,2012,,,,0,0,1,0,1
 4754,Blippi - Videos for Kids,2016,,,,0,0,1,0,1
-4755,"Yoga For Back Pain, Neck Pain & Stress Relief - Lindsey Samper",2017,,,,0,0,1,0,1
+"4755,""Yoga For Back Pain, Neck Pain & Stress Relief - Lindsey Samper"",2017,,,,0,0,1,0,1"
 4756,Tom the Tow Truck,2016,,,,0,0,1,0,1
 4757,60 Second Docs,2016,,,,0,0,1,0,1
 4758,Trains,2016,,,,0,0,1,0,1
@@ -4811,7 +4811,7 @@
 4809,Pet Medics: New Zealand,2016,,,,0,0,1,0,1
 4810,The Marijuana Show,2016,,,,0,0,1,0,1
 4811,Local Hauntings,2018,,,,0,0,1,0,1
-4812,"Cars, Cops & Criminals",2008,,,,0,0,1,0,1
+"4812,""Cars, Cops & Criminals"",2008,,,,0,0,1,0,1"
 4813,Siege in Fog,2018,,,,0,0,1,0,1
 4814,Battlefields of the World Wars,2014,,,,0,0,1,0,1
 4815,Let's Fall in Love -《咱们相爱吧》,2018,,,,0,0,1,0,1
@@ -4841,7 +4841,7 @@
 4839,Lego Set Builds City - Artifex,2016,,,,0,0,1,0,1
 4840,Can We Cure,2018,,,,0,0,1,0,1
 4841,The Evolution of Us,2016,,,,0,0,1,0,1
-4842,"Gas, Grub, and Ghosts",2017,,,,0,0,1,0,1
+"4842,""Gas, Grub, and Ghosts"",2017,,,,0,0,1,0,1"
 4843,The Grind,2016,,,,0,0,1,0,1
 4844,Mickey's Farm,2009,,,,0,0,1,0,1
 4845,Treasure Houses of Britain,2011,,,,0,0,1,0,1
@@ -4958,7 +4958,7 @@
 4956,Decoding The Ancients,2010,,,,0,0,1,0,1
 4957,Gamer Next Door,2015,,,,0,0,1,0,1
 4958,Dowry,2015,,,,0,0,1,0,1
-4959,"I, Caesar: The Rise and Fall of the Roman Empire",1997,,,,0,0,1,0,1
+"4959,""I, Caesar: The Rise and Fall of the Roman Empire"",1997,,,,0,0,1,0,1"
 4960,The Aces' War,2017,,,,0,0,1,0,1
 4961,Christianity for Beginners,2016,,,,0,0,1,0,1
 4962,Hotel Sacher,2016,,,,0,0,1,0,1
@@ -4973,7 +4973,7 @@
 4971,Laver Cup 2018,2018,,,,0,0,1,0,1
 4972,Chasing Bigfoot: The Quest For Truth,2016,,,,0,0,1,0,1
 4973,America's Monsters,2013,,,,0,0,1,0,1
-4974,"Myths, Magic & Monsters",2007,,,,0,0,1,0,1
+"4974,""Myths, Magic & Monsters"",2007,,,,0,0,1,0,1"
 4975,The Hunting Public,2017,,,,0,0,1,0,1
 4976,South Bend's Lunkerville,2017,,,,0,0,1,0,1
 4977,The Queen's Diamond Decades,2013,,,,0,0,1,0,1
@@ -5012,10 +5012,10 @@
 5010,Nursery Rhymes For Babies and Toddlers,2017,,,,0,0,1,0,1
 5011,The Flavors of Italy,2013,,,,0,0,1,0,1
 5012,Gym Class Science,2015,,,,0,0,1,0,1
-5013,"Where There's Blame, There's a Claim",2017,,,,0,0,1,0,1
+"5013,""Where There's Blame, There's a Claim"",2017,,,,0,0,1,0,1"
 5014,The Entrepreneurs,2013,,,,0,0,1,0,1
 5015,What's Up In Space: The Solar System For Kids Series,2010,,,,0,0,1,0,1
-5016,"Sesame Street: 3,2,1 Let's Go",2010,,,,0,0,1,0,1
+"5016,""Sesame Street: 3,2,1 Let's Go"",2010,,,,0,0,1,0,1"
 5017,Board AF,2016,,,,0,0,1,0,1
 5018,Extreme Constructions,2017,,,,0,0,1,0,1
 5019,Nature Adventures with Terri and Todd,2018,,,,0,0,1,0,1
@@ -5085,14 +5085,14 @@
 5083,Logan's Adventures,2015,,,,0,0,1,0,1
 5084,B-Boys: A History of Breakdance,2015,,,,0,0,1,0,1
 5085,Drunken Movie Geeks,2017,,,,0,0,1,0,1
-5086,"In Sanity, Florida",2017,,,,0,0,1,0,1
+"5086,""In Sanity, Florida"",2017,,,,0,0,1,0,1"
 5087,Wide World of Kids,2013,,,,0,0,1,0,1
 5088,Once upon a Time in Odessa,2011,,,,0,0,1,0,1
 5089,Five Minute Fairy Tales,2017,,,,0,0,1,0,1
 5090,The Flavors of France,2013,,,,0,0,1,0,1
 5091,Risk Takers (2007),2007,,,,0,0,1,0,1
 5092,How Does That Work?,2001,,,,0,0,1,0,1
-5093,"YTF: Yesterday, Today, Forever",2012,,,,0,0,1,0,1
+"5093,""YTF: Yesterday, Today, Forever"",2012,,,,0,0,1,0,1"
 5094,Yoga Class for Beginners with Irini Res,2017,,,,0,0,1,0,1
 5095,Finding the Future,2017,,,,0,0,1,0,1
 5096,Hitler In His Own Words,2002,,,,0,0,1,0,1
@@ -5138,7 +5138,7 @@
 5136,The Romanovs,2013,,,,0,0,1,0,1
 5137,Tomorrow's World,1995,,,,0,0,1,0,1
 5138,Serial Killer Culture TV,2017,,,,0,0,1,0,1
-5139,"Montréal: My Love, My Story",2018,,,,0,0,1,0,1
+"5139,""Montréal: My Love, My Story"",2018,,,,0,0,1,0,1"
 5140,Lost Animals of the 20th Century,1995,,,,0,0,1,0,1
 5141,Our American Family,2012,,,,0,0,1,0,1
 5142,Jelly Jam,2011,,,,0,0,1,0,1
@@ -5323,7 +5323,7 @@
 5321,Warriors of the Night,1998,,,,0,0,1,0,1
 5322,Bana: Heart of Darkness,2017,,,,0,0,1,0,1
 5323,The French Gun,2018,,,,0,0,1,0,1
-5324,"Abu, The Little Dinosaur",2015,,,,0,0,1,0,1
+"5324,""Abu, The Little Dinosaur"",2015,,,,0,0,1,0,1"
 5325,Wolfpack,2013,,,,0,0,1,0,1
 5326,Tatiana's Night,2015,,,,0,0,1,0,1
 5327,Partners in Crime,2011,,,,0,0,1,0,1
@@ -5339,7 +5339,7 @@
 5337,Fireball Run Adventurally,2017,,,,0,0,1,0,1
 5338,Spacefiles,2004,,,,0,0,1,0,1
 5339,Rivers of Our Time,2009,,,,0,0,1,0,1
-5340,"Monsters, Madness and Mayhem",2003,,,,0,0,1,0,1
+"5340,""Monsters, Madness and Mayhem"",2003,,,,0,0,1,0,1"
 5341,The Special Needs Hotel,2015,,,,0,0,1,0,1
 5342,Episode dated 3 February 1988,1988,,,,0,0,1,0,1
 5343,S.O.S! Winter,2003,,,,0,0,1,0,1
@@ -5349,7 +5349,7 @@
 5347,Supersized,2015,,,,0,0,1,0,1
 5348,Smoke & Steam,1990,,,,0,0,1,0,1
 5349,Second War Diary - The War Day by Day,2014,,,,0,0,1,0,1
-5350,"Review: Build A Bear, Tsum Tsum and Disney Plushie Toy Reviews",2017,,,,0,0,1,0,1
+"5350,""Review: Build A Bear, Tsum Tsum and Disney Plushie Toy Reviews"",2017,,,,0,0,1,0,1"
 5351,Review: Pullip Doll Reviews,2017,,,,0,0,1,0,1
 5352,Review: Shopkins Shoppies Doll Reviews,2017,,,,0,0,1,0,1
 5353,Review: Blind Bags and Surprise Toy Reviews,2017,,,,0,0,1,0,1
@@ -5375,7 +5375,7 @@
 5373,Walks Around Britain,2016,,,,0,0,1,0,1
 5374,Air Wars,2000,,,,0,0,1,0,1
 5375,High Blood Pressure,2016,,,,0,0,1,0,1
-5376,"Mysteries, Magic and Miracles",1994,,,,0,0,1,0,1
+"5376,""Mysteries, Magic and Miracles"",1994,,,,0,0,1,0,1"
 5377,How to Hunt with Ryan Kohler,2018,,,,0,0,1,0,1
 5378,The Bomber: Behind Nazi Lines,2012,,,,0,0,1,0,1
 5379,On The Spot,2017,,,,0,0,1,0,1
@@ -5410,20 +5410,20 @@
 5408,Pinkfong! Body Songs,2017,,,,0,0,1,0,1
 5409,Learning with Vehicles,2015,,,,0,0,1,0,1
 5410,Cosmo Queens,2017,,,,0,0,1,0,1
-5411,"Cars, Cars",2017,,,,0,0,1,0,1
+"5411,""Cars, Cars"",2017,,,,0,0,1,0,1"
 5412,Chronicle Of Love,2015,,,,0,0,1,0,1
 5413,Microsoft Excel 2016 - Training,2016,,,,0,0,1,0,1
 5414,Forza Horizon 3 Gameplay,2017,,,,0,0,1,0,1
 5415,Can I Catch It,2018,,,,0,0,1,0,1
 5416,Great Indian Wars,2009,,,,0,0,1,0,1
-5417,"Miracle of Faith: 2,000 Years of Christianity in the Holy Land",2000,,,,0,0,1,0,1
+"5417,""Miracle of Faith: 2,000 Years of Christianity in the Holy Land"",2000,,,,0,0,1,0,1"
 5418,Celebrity Poker Gala,2018,,,,0,0,1,0,1
 5419,Nordic Road Trip 2018,2018,,,,0,0,1,0,1
 5420,Hitler's Lost Battles,2017,,,,0,0,1,0,1
 5421,Impossible Peace,2017,,,,0,0,1,0,1
 5422,Minecraft Life,2017,,,,0,0,1,0,1
 5423,Review: Disney Toy Review,2017,,,,0,0,1,0,1
-5424,"Review: Cool Collectibles Dolls, Toys and Vinyl Figures Reviews",2017,,,,0,0,1,0,1
+"5424,""Review: Cool Collectibles Dolls, Toys and Vinyl Figures Reviews"",2017,,,,0,0,1,0,1"
 5425,World of Discovery,1990,,,,0,0,1,0,1
 5426,Jenise's Kitchen,2017,,,,0,0,1,0,1
 5427,Barely Beer Barons,2017,,,,0,0,1,0,1
@@ -5549,7 +5549,7 @@
 5547,Out of the Box,1998,all,7.5,,0,0,0,1,1
 5548,Vampirina,2017,all,6.8,,0,0,0,1,1
 5549,The Lion Guard,2016,all,6.5,,0,0,0,1,1
-5550,"Dr. Oakley, Yukon Vet",2014,all,8.1,,0,0,0,1,1
+"5550,""Dr. Oakley, Yukon Vet"",2014,all,8.1,,0,0,0,1,1"
 5551,Marvel’s Hulk and the Agents of S.M.A.S.H,2013,7+,6.1,,0,0,0,1,1
 5552,Primal Survivor,2016,,8.3,,0,0,0,1,1
 5553,Crash & Bernstein,2012,all,4.8,,0,0,0,1,1
